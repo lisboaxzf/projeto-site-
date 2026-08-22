@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Meu Blog</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+ <h1>Meu Blog Tech</h1>
+<img src="Imagem1.png" alt="Educação Digital" width="300" height="100">
+<p>Vou compartilhar informações sobre tecnologia e programação</p>
+</header>
+<main>
+<img src="::view-transition-image-pair" alt="o DigitaEducaçãl" width="300" height="100">
+<div>
+<h2>Meu Primeiro Post</h2>:
+<p>Bem vindo ao meu site</p>
+<p>Por:maria eduarda lisboa </p>
+<button>🙃​ <span>0</span></button>
+</div>
+</main>
+</body>
+<script src="script.js"></script>
+</html>
+
+
+
+
+header{
+   background-color: rgb(8, 38, 189);
+   color: rgb(247, 245, 236);
+   text-align: center;
+   max-width: 800px;
+   margin: 0 auto;
+}
+.artigo-autor {
+   font-weight: bold;
+}
+main {
+   background-color: rgb(8, 67, 126);
+   color: rgb(112, 117, 160);
+   text-align: center;
+   max-width: 800px;
+   margin: 0 auto;
+   border: 5px solid #30bd05;
+   padding: 16px;
+   display: flex;
+}
+   padding: 16px;
+   display: flex;
+}
